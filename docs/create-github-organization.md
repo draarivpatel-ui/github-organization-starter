@@ -15,6 +15,9 @@ Official reference: [Creating a new organization from scratch](https://docs.gith
 1. Sign in at github.com.
 2. Click your profile picture, then **Your organizations**, then **New organization**.
 3. Choose a plan.
+
+   ![The plan picker: Free, Team and Enterprise](images/02-choose-plan.png)
+
 4. Fill in **Organization account name**, **Contact email** and whether the organization belongs to **My personal account** or **A business or institution**.
 5. Verify you are human and click **Next**, then **Complete setup**.
 6. Optionally invite members by username or email.

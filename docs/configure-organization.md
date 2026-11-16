@@ -29,6 +29,8 @@ Under **Member privileges**:
 | Pages creation | Per your policy |
 | Admin repository permissions | Owners only can delete or transfer |
 
+![Member privileges: base permissions, repository creation, forking](images/06-member-privileges.png)
+
 ## Defaults for new repositories
 
 Under **Code security**, enable the configuration that turns on Dependabot alerts, secret scanning and push protection for new repositories.

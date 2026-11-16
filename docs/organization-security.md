@@ -1,6 +1,8 @@
 # GitHub organization security checklist
 
 - [ ] **Require two-factor authentication** (Settings, Authentication security). Members without 2FA are removed from the organization, so announce it first.
+  ![Organization settings, Two-factor authentication](images/05-require-2fa.png)
+
 - [ ] **At least two owners**, everyone else a member.
 - [ ] **Base permission: Read.**
 - [ ] **Dependabot alerts and security updates** on for all repositories.

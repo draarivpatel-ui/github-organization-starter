@@ -22,6 +22,10 @@ docs                  Write on docs repositories
 security              Read everywhere, Admin on security tooling
 ```
 
+Create a team under your organization, **Teams**, **New team**:
+
+![The Create new team form](images/07-new-team.png)
+
 Grant access to **teams**, not individuals, so offboarding is one removal.
 
 ## With `gh`
