@@ -8,9 +8,12 @@ Captured from a signed-in session with org name, account name and avatars replac
 | `05-require-2fa.png` | Settings, Two-factor authentication | organization-security.md |
 | `06-member-privileges.png` | Settings, Member privileges | configure-organization.md |
 | `07-new-team.png` | Teams, Create new team | teams-and-permissions.md |
+| `09-check-prerequisites.png` | Terminal, check-prerequisites.sh | README, QUICKSTART |
+| `10-bootstrap-dry-run.png` | Terminal, bootstrap dry run | README |
+| `social-preview.png` | 1280x640 repo social preview | Settings, Social preview |
 | `github-docs-create-org.png` | GitHub's own creation guide | create-github-organization.md |
 
 ## Still missing
 
 - The "New organization" name and email form (GitHub shows a bot check to automated browsers; capture it by hand).
-- Branch-protection ruleset result and terminal output of `check-prerequisites.sh`.
+- Branch-protection ruleset result.

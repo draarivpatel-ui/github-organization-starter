@@ -2,6 +2,10 @@
 
 A free, copy-and-run kit for creating and configuring a professional GitHub organization: step-by-step guides, an organization profile template, security and community files, team and permission advice, and `gh` scripts that set up repositories and branch protection.
 
+![Create an organization in GitHub: 6-step motion walkthrough](docs/video/org-setup.gif)
+
+[Watch the 16-second walkthrough as MP4](docs/video/org-setup.mp4)
+
 > GitHub's own guide is the source of truth for the creation screens: [Creating a new organization from scratch](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch). Creating the organization itself is a manual step in the GitHub UI. This kit covers everything you do **after** that, and tells you what to decide **before** it.
 
 ## What is a GitHub organization?
@@ -16,6 +20,8 @@ A GitHub organization is a shared account where many people own and manage repos
 4. Complete the verification step and click **Create organization**.
 5. Invite your first members (you can skip this and do it later).
 
+![Pick a plan for your organization](docs/images/02-choose-plan.png)
+
 Full walkthrough with a checklist: [docs/create-github-organization.md](docs/create-github-organization.md).
 
 ## How to choose a GitHub organization name
@@ -23,6 +29,8 @@ Full walkthrough with a checklist: [docs/create-github-organization.md](docs/cre
 Short, lowercase, easy to say aloud, and matching your domain and package names if you can. Names are public in every URL, and renaming later breaks links. Details and a checklist: [docs/create-github-organization.md#choose-the-name](docs/create-github-organization.md#choose-the-name).
 
 ## What to configure next
+
+![Require two-factor authentication](docs/images/05-require-2fa.png)
 
 | Step | Guide |
 | --- | --- |
@@ -35,6 +43,12 @@ Short, lowercase, easy to say aloud, and matching your domain and package names 
 The 10-minute path is in [QUICKSTART.md](QUICKSTART.md).
 
 ## How to use this starter kit
+
+Check your setup, then preview the repository bootstrap before it changes anything:
+
+![check-prerequisites.sh output](docs/images/09-check-prerequisites.png)
+
+![bootstrap-repositories.sh dry run](docs/images/10-bootstrap-dry-run.png)
 
 ```bash
 git clone https://github.com/flisk-sh/github-organization-starter.git

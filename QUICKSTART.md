@@ -18,6 +18,8 @@ You need a GitHub account. Nothing else is installed until step 3.
   ./scripts/check-prerequisites.sh YOUR_ORG
   ```
 
+   ![Output of check-prerequisites.sh](docs/images/09-check-prerequisites.png)
+
 - [ ] 5. **Create the org-wide `.github` repository and a first repo** (2 min).
 
   ```bash
