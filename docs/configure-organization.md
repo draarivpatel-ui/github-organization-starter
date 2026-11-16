@@ -7,15 +7,11 @@ Settings live under your organization, **Settings**.
 - **Profile**: display name, description, URL, email, location. Fill these in; they show on your public page.
 - **Profile README**: create a repository named `.github` and add `profile/README.md`. Its content appears on the organization page. Start from [templates/organization-profile/README.md](../templates/organization-profile/README.md).
 
-What the result looks like on a public organization page (the README at the bottom comes from `profile/README.md`):
-
-![An organization profile page with its README](images/org-profile.png)
+The README appears on your public organization page, below the name and description.
 
 ## Organization-wide community files
 
 A public repository named `.github` supplies default community health files for every repository in the organization that lacks its own: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SECURITY.md`, `SUPPORT.md`, issue templates and pull request templates. Start from [templates/community/](../templates/community).
-
-![The org-wide .github repository](images/org-dotgithub-repo.png)
 
 ## Member privileges
 

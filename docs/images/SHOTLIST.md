@@ -1,6 +1,6 @@
 # Screenshots
 
-Taken with headless browser captures at 1280 px wide, light theme.
+Captured from a signed-in session with org name, account name and avatars replaced by `your-org` and grey placeholders.
 
 | File | Page | Used in |
 | --- | --- | --- |
@@ -8,8 +8,6 @@ Taken with headless browser captures at 1280 px wide, light theme.
 | `05-require-2fa.png` | Settings, Two-factor authentication | organization-security.md |
 | `06-member-privileges.png` | Settings, Member privileges | configure-organization.md |
 | `07-new-team.png` | Teams, Create new team | teams-and-permissions.md |
-| `org-profile.png` | Public organization page | configure-organization.md |
-| `org-dotgithub-repo.png` | The org-wide `.github` repository | configure-organization.md |
 | `github-docs-create-org.png` | GitHub's own creation guide | create-github-organization.md |
 
 ## Still missing
